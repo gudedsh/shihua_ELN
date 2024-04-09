@@ -1,2 +1,3 @@
 # shihua_ELN
-For electric learn note 
+For electronic lab notebook!
+
